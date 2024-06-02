@@ -1,3 +1,4 @@
 teste = 'Eduardo Conte'
+print('Duu')
+print('Duu')
 
-print('Deu boa')
